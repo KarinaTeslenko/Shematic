@@ -1,0 +1,52 @@
+PCAD Importer Log
+Project : Teslenko ¹4 ¹1 man.PrjPcb
+
+Section : C:\Users\Admin\Downloads\Telegram Desktop\shematic\shematic\Teslenko ¹4 ¹1 man.PCB
+    Section : Load Messages
+        Warning - 1 : Skipping Token attachedSymbol On Line 256
+        Warning - 1 : Skipping Token attachedSymbol On Line 277
+        Warning - 1 : Skipping Token attachedSymbol On Line 298
+        Warning - 1 : Skipping Token attachedSymbol On Line 320
+        Warning - 1 : Skipping Token attachedSymbol On Line 340
+        Warning - 1 : Skipping Token attachedSymbol On Line 360
+        Warning - 1 : Skipping Token attachedSymbol On Line 380
+        Warning - 1 : Skipping Token attachedSymbol On Line 400
+        Warning - 1 : Skipping Token attachedSymbol On Line 420
+        Warning - 1 : Skipping Token attachedSymbol On Line 440
+        Warning - 1 : Skipping Token attachedSymbol On Line 460
+        Warning - 1 : Skipping Token refPointSize On Line 627
+        Warning - 1 : Skipping Token infoPointSize On Line 628
+        Warning - 1 : Skipping Token gluePointSize On Line 629
+        Warning - 1 : Skipping Token pickPointSize On Line 630
+        Warning - 1 : Skipping Token testPointSize On Line 631
+        Warning - 1 : Skipping Token refPointSizePrint On Line 632
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 633
+        Warning - 1 : Skipping Token gluePointSizePrint On Line 634
+        Warning - 1 : Skipping Token pickPointSizePrint On Line 635
+        Warning - 1 : Skipping Token testPointSizePrint On Line 636
+        Warning - 1 : Skipping Token solderFlowDirection On Line 637
+        Warning - 1 : Skipping Token globalCopperPourCutoutBackoffFlag On Line 638
+        Warning - 1 : Skipping Token useLegacyBackoffAlgorithm On Line 639
+        Warning - 1 : Skipping Token useLegacyCupourIslandGenerationAlgorithm On Line 640
+        Warning - 1 : Skipping Token drillSymSettings On Line 867
+        Warning - 1 : Skipping Token gerberSettings On Line 869
+        Warning - 1 : Skipping Token ncDrillSettings On Line 883
+        Warning - 1 : Skipping Token programState On Line 892
+        Warning - 1 : Skipping Token displayDrawOrder On Line 933
+        Warning - 1 : Skipping Token reportSettings On Line 1156
+        Warning - 1 : Skipping Token odbSettings On Line 1853
+    EndSection
+
+    Section : Import Messages
+        Warning - 0 : PCAD Pattern Graphics [RESISTOR][Primary] associated with PCAD Component [RESISTOR_STATIC] has been renamed to PCB FootPrint [RESISTOR_RESISTOR_STATIC(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [RESISTOR][Primary] associated with PCAD Component [RESISTOR_STATIC(2V)] has been renamed to PCB FootPrint [RESISTOR_RESISTOR_STATIC(2V)(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [RESISTOR][Primary] associated with PCAD Component [RESISTOR] has been renamed to PCB FootPrint [RESISTOR_RESISTOR(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [RESISTOR][Primary] associated with PCAD Component [RESISTOR] has been renamed to PCB FootPrint [RESISTOR_RESISTOR(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [KT940][Primary] associated with PCAD Component [NPN_2] has been renamed to PCB FootPrint [KT940_NPN_2(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [KD522B][Primary] associated with PCAD Component [DIOD_2] has been renamed to PCB FootPrint [KD522B_DIOD_2(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [KD522B][Primary] associated with PCAD Component [DIOD_3] has been renamed to PCB FootPrint [KD522B_DIOD_3(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [K50-29][Primary] associated with PCAD Component [K50 – 29] has been renamed to PCB FootPrint [K50-29_K50 – 29(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [KD522B][Primary] associated with PCAD Component [DIOD] has been renamed to PCB FootPrint [KD522B_DIOD(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [KT940][Primary] associated with PCAD Component [NPN] has been renamed to PCB FootPrint [KT940_NPN(Primary)].
+    EndSection
+EndSection
